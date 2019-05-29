@@ -1,0 +1,5 @@
+<Alloy>
+    <Window backgroundColor="blue">
+        <WebView id="samlWebView" url="test.html" ignoreSslError="true" borderRadius="0.2"/>
+    </Window>
+</Alloy>
